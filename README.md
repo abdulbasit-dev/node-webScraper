@@ -10,7 +10,7 @@ in terminal write this
 ```javascript
 node index.js <website_domain>
 
-e.g.
+E.g
 
 node index.js apple.com
 ```
